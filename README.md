@@ -23,9 +23,11 @@ Para acceder e interactuar con el tablero, siga estos pasos:
 * Descargue el archivo .twbx de este repositorio a su máquina local.
 * Inicie Tableau y abra el libro de trabajo .twbx descargado.
 * Explore las diferentes vistas, KPI y conocimientos presentados en el tablero.
-* Utilice las funciones interactivas, como filtros y acciones, para realizar un análisis de datos más profundo.
+* Utilice las funciones interactivas, como filtros y acciones, para realizar un análisis de datos más profundo. Recuerde utilizar Ctrl + Select para escoger las ubicaciones que desea analizar al interior  del mapa interactivo o en la tabla denominada ticket promedio.
 
-Siéntase libre de proporcionar comentarios o sugerencias para mejorar. ¡Feliz exploración!
+Siéntase libre de proporcionar comentarios o sugerencias para mejorar. 
+
+¡Feliz exploración!
 
 ## Acerca del proyecto 🏁
 
